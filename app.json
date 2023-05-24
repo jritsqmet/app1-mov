@@ -4,10 +4,10 @@
     "slug": "app-Expo",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/androide.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/Sp.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
